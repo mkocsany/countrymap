@@ -3,7 +3,7 @@
 		"capital" : "Dhaka",
 		"name" : "Bangladesh",
 		"dial_code" : "+880",
-		"dial_length" : "6,7,8,9",
+		"dial_length" : "[6,7,8,9]",
 		"currency" : "BDT"
 	},
 	"BE" : {
